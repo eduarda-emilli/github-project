@@ -1,0 +1,25 @@
+body {
+    background: rgb(121, 230, 224);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .color-h1 {
+    color: rgb(31, 109, 31);
+  }
+  
+  .cat {
+    width: 50%;
+    margin-right: 10px; 
+  }
+  
+  .container img {
+    margin-left: 150px;
+  }
